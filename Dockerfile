@@ -1,6 +1,5 @@
 FROM alpine
 
-ENV PACKAGER_PRIVKEY /builder/abuild.rsa
 ENV REPODEST /packages
 ENV PACKAGER Glider Labs <team@gliderlabs.com>
 
